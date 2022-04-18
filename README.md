@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.facebook.com/ru.brian1108/">
-    <img src="https://img.shields.io/github/languages/top/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?colorB=f0db4f&style=for-the-badge" alt="Languages">
+    <img src="https://img.shields.io/badge/code%20quality-A-brightgreen" alt="Languages">
 </a>
 
 <br>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/github/package-json/v/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?colorB=Orange&style=for-the-badge" alt="Version">
 </a>
 
-<a href="https://www.facebook.com/ru.brian1108//issues">
+<a href="https://www.facebook.com/ru.brian1108/">
     <img src="https://img.shields.io/github/issues/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?style=for-the-badge&colorB=37f149" alt="Issues">
 </a>
 
